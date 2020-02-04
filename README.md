@@ -1,6 +1,6 @@
 # CollectionViewCell-Animation
 
-Animating contents of a UICollecitonViewCell. In this app we are creating a pulsating heart animation which repeats forevers. Also we are ensuring the the animation continues to run by resetting the transform identity in prepareForResuse() in the HeartCell.
+Animating contents of a UICollecitonViewCell. In this app we are creating a pulsating heart animation which repeats forever. Also we are ensuring that the animation continues to run by resetting the transform identity in prepareForResuse() in the HeartCell.
 
 #### Resetting the tranform identity in prepareForResuse is needed to ensure animation continues when scrolling collection view
 
